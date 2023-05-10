@@ -1,6 +1,6 @@
 # NFT Collection Analyzer
 
-This repository contains a Python program for analyzing NFT (Non-Fungible Token) collections. The program connects to a SQLite database, retrieves data from the OpenSea API, and performs various analyses on the NFT collections.
+This repository contains a Python program for analyzing NFT (Non-Fungible Token) collections. The program connects to a SQLite database, retrieves data from the OpenSea API and Alchemy API, and performs various analyses on the NFT collections.
 
 ## Installation
 
