@@ -18,7 +18,7 @@ This repository contains a Python program for analyzing NFT (Non-Fungible Token)
    ALCHEMY_API_KEY=<your_alchemy_api_key>
    ```
 
-   ## Usage
+## Usage
 
 4. Modify the collections.txt file to include the URLs of the NFT collections you want to analyze, with each URL on a separate line.
 
